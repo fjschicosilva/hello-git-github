@@ -1,4 +1,4 @@
-# Hello GIT Github - Merge
+# Hello GIT Github - Beanch
 
 # H1
 ## H2
